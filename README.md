@@ -1,16 +1,13 @@
 <!DOCTYPE html>
 <html>
-
 <body>
-
   <h1><i class="fas fa-code"></i> Projeto de Arquitetura de Microsserviços com Python e Kubernetes</h1>
-
   <h2><i class="fas fa-cog"></i> Pré-requisitos</h2>
   <ul>
-    <li><i class="fab fa-python"></i> Python 3.6 ou superior</li>
-    <li><i class="fab fa-docker"></i> Docker</li>
-    <li><i class="fab fa-kubernetes"></i> Kubernetes</li>
-    <li><i class="fas fa-database"></i> Banco de dados (MySQL, Postgres, etc)</li>
+<li><img src="https://img.icons8.com/color/48/000000/python.png"/> Python 3.6 ou superior</li>
+<li><img src="https://img.icons8.com/color/48/000000/docker.png"/> Docker</li>
+<li><img src="https://img.icons8.com/color/48/000000/kubernetes.png"/> Kubernetes</li>
+<li><img src="https://img.icons8.com/color/48/000000/database-restore.png"/> Banco de dados (MySQL, Postgres, etc)</li>
   </ul>
 
   <h2><i class="fas fa-play"></i> Passo a Passo</h2>
