@@ -1,14 +1,6 @@
 <!DOCTYPE html>
 <html>
 
-<head>
-  <meta charset="utf-8">
-  <title>Projeto de Arquitetura de Microsserviços com Python e Kubernetes</title>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
-    integrity="sha512-yeLJx8uDyS1+W/Mf7ehpa1zU5CCFZGn6XhtbRQvLJWxh8C3nmqslDpi6aKpJBC8c02wJUBOo7P+o4KvBO4W4zQ=="
-    crossorigin="anonymous" referrerpolicy="no-referrer" />
-</head>
-
 <body>
 
   <h1><i class="fas fa-code"></i> Projeto de Arquitetura de Microsserviços com Python e Kubernetes</h1>
